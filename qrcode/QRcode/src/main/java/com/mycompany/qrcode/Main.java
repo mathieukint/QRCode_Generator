@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         
-        //  QR Code pour la page d'acceuil
+        //  QR Code pour la page d'accueil
         String QRHome = "10.0.2.2:4200";  //String data = "http://www.localhost:4200";
         String pathQRHome = "C:\\Users\\mathi\\OneDrive\\EPSI\\MSPR\\QRCodePictures\\code_accueil.jpg";
         BitMatrix matrixQRHome = new MultiFormatWriter()

@@ -10,6 +10,7 @@ import java.nio.file.Paths;
 /**
  *
  * @author 33769
+ * @contributor mathi
  */
 public class Main {
 
